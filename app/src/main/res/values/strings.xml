@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SemaphoreSample</string>
+    <string name="semaphore_binded">and is binded on %s</string>
+</resources>
